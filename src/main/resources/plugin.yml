@@ -1,0 +1,4 @@
+name: FoodDiet
+version: '1.0.0'
+main: winlyps.foodDiet.FoodDiet
+api-version: '1.20'
